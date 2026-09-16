@@ -18,7 +18,7 @@ If there is any error or need to be discussed, please email to [Phuoc-Long Huynh
 If you find this work or dataset useful for your research, please cite our paper:
 
 ```bibtex
-@ARTICLE{11397655,
+@ARTICLE{huynh2026astranet,
   author={Huynh, Phuoc-Long and Phan, Van-Ca and Pham, Quoc-Viet and da Costa, Daniel Benevides and Huynh-The, Thien},
   journal={IEEE Wireless Communications Letters}, 
   title={ASTRA-Net: Adaptive Spectro-Temporal Robust Architecture for Spectrum Sensing}, 
